@@ -9,4 +9,4 @@ It integrates the Picto4me player mode with the [WEBOGRAM (https://github.com/zh
 
 Screenshot of the interface:
 
-![Sample screenshot 1](/picto4chat.png)
+![Sample screenshot 1](https://github.com/zoqui/picto4chat/raw/3.20/picto4chat.png)
